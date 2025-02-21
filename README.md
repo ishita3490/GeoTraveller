@@ -1,4 +1,4 @@
-I'll help update the README.md file with the changes. Here's the modified version:
+
 
 ```markdown:README.md
 # GeoTraveller - Travel Tracking Application
